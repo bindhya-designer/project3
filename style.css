@@ -159,6 +159,10 @@
  text-align: center;
 
 }
+.icon-box{
+
+    cursor: pointer;
+}
 img.img-scrapd{
     filter:grayscale(100%);border-radius: 50%;
     }
